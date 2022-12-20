@@ -1,5 +1,5 @@
 <?php
-putenv("MYSQL_HOST=bb5ryksqobyi3hzvkpae-mysql.services.clever-cloud.com");
-putenv("MYSQL_DATABASE=bb5ryksqobyi3hzvkpae");
-putenv("MYSQL_USER=u1rejtflgqi4v6q2");
-putenv("MYSQL_PASS=C4YgHXebymcMWPOgu8j8");
+putenv("MYSQL_HOST=bbr6qriktr5g2vwk9xfio-mysql.services.clever-cloud.com");
+putenv("MYSQL_DATABASE=bbr6qriktr5g2vwk9xfio");
+putenv("MYSQL_USER=uwwvwgpwo7oba3un");
+putenv("MYSQL_PASS=5Co8ODjTIEgztMzodjF3");
